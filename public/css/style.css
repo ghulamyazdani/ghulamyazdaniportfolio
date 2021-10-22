@@ -1436,14 +1436,14 @@ body.offcanvas {
     justify-content:center;
     
   } 
-  /* .row:first-child{
+  /* .f:first-child{
     
     padding: 1.2rem;
   }
   .row:nth-child(2){
     padding-left: 20px;
-  }
-   */
-   .row:not(:last-child){
+  } */
+  
+   li .f:not(:last-child){
      margin-right: 2rem;
    }
